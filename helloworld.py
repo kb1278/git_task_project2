@@ -1,1 +1,2 @@
-echo "Git is awesome"
+echo "age=input(enter age)"
+echo "print age"
